@@ -1,5 +1,5 @@
 # Lockjaw-s-Assembly-Tuning-Fork
-Assembly Tuning Fork By: Davis Mann
+Assembly Tuning Fork By: David Mann
 
 This program can be used to tune any instrument or reference any note based off of the Stuttgart pitch (440 hz)
 
